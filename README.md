@@ -1,2 +1,2 @@
 # booklege
-Java-based bank management system developed to demonstrate core Java programming and banking operations.
+College student educational resource platform built with Flutter, Dart and Firebase, featuring books, notes and previous-year question papers.
